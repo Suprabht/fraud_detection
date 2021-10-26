@@ -3,6 +3,12 @@ a=9
 b=6
 def sum(a,b):
     c=a+b
-    return a
+    return c
+
+print ("multiplication fnction")
+
+def multiplication(a,b):
+    d = a*b
+    return d
     
-print("added a new function sum which is not corrwdt")
+print ("multiplication fnction")
